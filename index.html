@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokédex</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+
+        <h1 class="header__title">Pokédex</h1>
+
+        <form class="search">
+            <input type="text" class="search__input" placeholder="Buscar por nombre o ID...">
+            <button type="submit" class="search__button">Buscar</button>
+        </form>
+
+        <nav class="nav">
+            <button class="nav__button" id="show-all">Todos</button>
+            <button class="nav__button" id="show-favorites">Mis Favoritos</button>
+        </nav>
+
+    </header>
+
+    <main class="pokedex">
+
+        <div class="pokedex__container" id="pokedex-container">
+            <!-- Las cartas de Pokémon se insertarán aquí -->
+        </div>
+
+        <div class="pokedex__loader" id="loader">Cargando...</div>
+
+        <button class="pokedex__load-more" id="load-more">Cargar Primeros 20 Pokémon</button>
+
+    </main>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
