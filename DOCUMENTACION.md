@@ -4,7 +4,7 @@
 *   **Universidad:** Universidad Da Vinci de Guatemala
 *   **Catedrático:** Ing. Brandon Antony Chitay Coutiño
 *   **Curso:** Programación Web
-*   **Estudiante:** Giovani De la cruz
+*   **Estudiante:** Guillermo Mendez
 *   **Fecha:** Septiembre 2025
 
 ## 1. Objetivo del Proyecto

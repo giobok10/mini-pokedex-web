@@ -40,5 +40,5 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 
 ## 👤 Autor
 
-**Giovani Boj** 
+**Guillermoi Mendez** 
 *   [GitHub](https://github.com/giobok10)
