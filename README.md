@@ -8,7 +8,7 @@
 
 Una aplicación web interactiva que permite a los usuarios buscar Pokémon, ver sus detalles y gestionar una lista de favoritos. Este proyecto consume la [PokéAPI](https://pokeapi.co/) para obtener datos en tiempo real y está construido con HTML, CSS y JavaScript puro, demostrando una sólida manipulación del DOM y un diseño web responsivo.
 
-**Demo en vivo:** (https://giobok10.github.io/pokedex-examen/)
+**Demo en vivo:** https://giobok10.github.io/mini-pokedex-web/
 
 ## ✨ Características Principales
 
@@ -35,10 +35,11 @@ Una aplicación web interactiva que permite a los usuarios buscar Pokémon, ver 
 No se requiere ninguna instalación especial. Simplemente clona este repositorio y abre el archivo `index.html` en tu navegador web preferido.
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/giobok10/mini-pokedex-web.git
 ```
 
 ## 👤 Autor
 
 **Guillermo Mendez** 
 *   [GitHub](https://github.com/giobok10)
+)
