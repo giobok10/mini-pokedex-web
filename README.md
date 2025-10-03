@@ -8,7 +8,7 @@
 
 Una aplicación web interactiva que permite a los usuarios buscar Pokémon, ver sus detalles y gestionar una lista de favoritos. Este proyecto consume la [PokéAPI](https://pokeapi.co/) para obtener datos en tiempo real y está construido con HTML, CSS y JavaScript puro, demostrando una sólida manipulación del DOM y un diseño web responsivo.
 
-**Demo en vivo:** (https://giobok10.github.io/pokedex-examen/)
+**Demo en vivo:** https://giobok10.github.io/mini-pokedex-web/
 
 ## ✨ Características Principales
 
